@@ -25,11 +25,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
+global.sig = 'https://www.instagram.com/michael.ardiana'
 global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
 global.sgh = 'https://github.com/SaepEp'
-global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
+global.sgc = 'wa.me/6289512522870'
+global.swa = 'wa.me/6281361165783'
 global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -42,19 +42,19 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
+global.nomorbot = '6281361165783'
+global.nomorown = '6281361165783'
+global.nomorown1 ='6289512522870'
 global.namebot = 'NexBotz'
 global.nameown = 'NexEp'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
+  ['6281361165783'],
+  ['6289512522870'],
   ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['6281361165783', 'NexEp', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
